@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Skeleton\Tests;
+namespace LaravelLatam\Epayco\Tests;
 
 class ExampleTest extends TestCase
 {

@@ -1,12 +1,12 @@
 <?php
 
-namespace Spatie\Skeleton\Commands;
+namespace LaravelLatam\Epayco\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class EpaycoCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'epayco';
 
     public $description = 'My command';
 
